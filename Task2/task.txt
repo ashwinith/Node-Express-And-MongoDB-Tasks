@@ -1,0 +1,8 @@
+Get all the published backend courses,
+sort them by their name,
+pick only their name and author and display them.
+
+
+
+get all the published frontend and backend courses, sort them by thier price and descending order,
+pick only their name author, and display them.
